@@ -1,0 +1,5 @@
+*.crate
+*.tar.gz
+*.src.rpm
+# Ignore extracted package source
+httpx_sse*
